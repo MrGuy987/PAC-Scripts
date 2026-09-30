@@ -1,0 +1,2 @@
+Intercepts requests going to known advertising, tracking, and telemetry domains. It routes them to a \n
+non-existent port on your local machine, forcing the ad elements to fail instantly without downloading.

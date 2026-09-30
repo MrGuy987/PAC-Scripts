@@ -1,0 +1,1 @@
+When you connect to public Wi-Fi (like at a cafe or airport), your browsing habits can sometimes be visible to the local router. This script automatically detects when you are on a public network range and forces your traffic through a secure encryption proxy—but switches off completely when you are safely back on your home network.

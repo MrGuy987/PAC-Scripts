@@ -1,0 +1,1 @@
+The location aware bypasser just makes the proxy turn off when you are on a home network and turn back on when changing networks. \n Note: you will need to put your IP address for the pac to know what is your home address. 

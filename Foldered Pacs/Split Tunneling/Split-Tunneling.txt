@@ -1,0 +1,2 @@
+Filters out heavy video and audio streaming media platforms to use your unthrottled direct connection,\n
+preserving your proxy server's bandwidth for standard text and web browsing traffic.

@@ -1,0 +1,1 @@
+Many modern websites load their core styles, fonts, and heavy media assets from centralized Content Delivery Networks (CDNs) like Cloudflare, Amazon Cloudfront, or Google Hosted Libraries. If you use a slow proxy for your primary browsing, this script forces these fast, universal asset servers to connect directly, significantly speeding up how fast everyday pages load.
